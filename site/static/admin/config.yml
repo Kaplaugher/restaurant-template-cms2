@@ -1,5 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Kaplaugher/restaurant-template-cms2
+  branch: master
+
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
